@@ -1,6 +1,6 @@
 <h1>Opa, beleza? Sou o jv 😎</h1>
 <br>
-<p>Sou o Joõa Vitor Debossan, tenho 16 anos e atualmente estou estudando</p>
+<p>Sou o João Vitor Debossan</p>
 <div align="center">
   <a href="https://github.com/jvadebossan">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvadebossan&layout=compact&langs_count=7&theme=tokyonight"/>
