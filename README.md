@@ -38,3 +38,5 @@ I'm João Vitor, a front-end developer with a growing expertise in various web t
     <img src="https://github-readme-stats.vercel.app/api?username=jvadebossan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" width="441">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvadebossan&layout=compact&theme=tokyonight" width="335">
 </p>
+
+![Snake animation](https://github.com/jvadebossan/jvadebossan/blob/output/github-contribution-grid-snake.svg)
