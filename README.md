@@ -13,7 +13,10 @@ I'm João Vitor, a front-end developer with a growing expertise in various web t
 <kbd>![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)</kbd>
 <kbd>![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)</kbd>
 <kbd>![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)</kbd>
-<kbd>![Spline](https://img.shields.io/badge/Spline-3A3A3A?style=for-the-badge&logo=spline&logoColor=white)</kbd>
+<kbd style="background-color: #3A3A3A; padding: 8px 16px; border-radius: 5px; color: white; display: inline-flex; align-items: center;">
+    <img src="https://i.ibb.co/7yH7mL1/image-removebg-preview-10.png" alt="Spline logo" style="height: 20px; margin-right: 8px;">
+    Spline
+</kbd>
 <kbd>![HTML5](https://img.shields.io/badge/HTML5-E54C21?style=for-the-badge&logo=html5&logoColor=white)</kbd>
 <kbd>![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)</kbd>
 
