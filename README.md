@@ -1,3 +1,4 @@
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap" rel="stylesheet">
 # Hi 👋, I am João Vitor Debossan
 
 I'm João Vitor, a front-end developer with a growing expertise in various web technologies. Currently focused on advancing my skills in **React Native** and **Next.js**. I'm also pursuing a degree in Information Systems.
@@ -13,8 +14,8 @@ I'm João Vitor, a front-end developer with a growing expertise in various web t
 <kbd>![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)</kbd>
 <kbd>![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)</kbd>
 <kbd>![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)</kbd>
-<kbd style="background-color: #3A3A3A; padding: 8px 16px; border-radius: 5px; color: white; display: inline-flex; align-items: center;">
-    <img src="https://i.ibb.co/7yH7mL1/image-removebg-preview-10.png" alt="Spline logo" style="height: 20px; margin-right: 8px;">
+<kbd style="background-color: #3A3A3A; padding: 8px 16px; border-radius: 5px; color: white; display: inline-flex; align-items: center; font-family: 'Roboto', sans-serif; font-size: 14px;">
+    <img src="https://scontent.fvix18-1.fna.fbcdn.net/v/t39.30808-6/347393601_781620743473722_8659615636850290771_n.png?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=kb0GwVPvEHkQ7kNvgHq3s_X&_nc_zt=23&_nc_ht=scontent.fvix18-1.fna&_nc_gid=ASZELBU-acOuAWbwrtyA64y&oh=00_AYDyIhuhWPy4vAaf-68jALpx4EgP5RDR2XuYlKlAh2w7-Q&oe=672487A9" alt="Spline logo" style="height: 20px; margin-right: 8px;">
     Spline
 </kbd>
 <kbd>![HTML5](https://img.shields.io/badge/HTML5-E54C21?style=for-the-badge&logo=html5&logoColor=white)</kbd>
