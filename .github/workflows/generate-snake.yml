@@ -1,13 +1,11 @@
 name: Generate Snake Animation
 
 on:
-  # Run automatically on a schedule (every 6 hours)
   schedule:
-    - cron: "0 */6 * * *"
-  # Run on each new commit to the repository
+    - cron: "0 */6 * * *"  # Runs every 6 hours
   push:
     branches:
-      - main
+      - main  # Runs on push to the main branch
 
 jobs:
   build:
@@ -22,7 +20,7 @@ jobs:
       - name: Generate Snake animation
         uses: Platane/snk@v2
         with:
-          # the output path for the generated SVG
+          # Specify the output path for the generated SVG
           output: dist/github-contribution-grid-snake.svg
 
       # Upload the generated SVG as a GitHub artifact
